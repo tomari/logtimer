@@ -1,0 +1,4 @@
+Logging timer - 2012 H.Tomari. Public Domain.
+Confirmed to run on python 3.2.1 and python 2.7.2
+requires PyGObject GTK+-3 bindings
+
